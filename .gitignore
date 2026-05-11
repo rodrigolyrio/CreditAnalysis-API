@@ -1,0 +1,9 @@
+# Pastas de compilação e arquivos temporários
+bin/
+obj/
+.vs/
+.vscode/
+
+# Proteção de Credenciais (Arquivos que têm sua senha do banco)
+appsettings.json
+appsettings.Development.json

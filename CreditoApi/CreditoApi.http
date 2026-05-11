@@ -1,0 +1,6 @@
+@CreditoApi_HostAddress = http://localhost:5105
+
+GET {{CreditoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
