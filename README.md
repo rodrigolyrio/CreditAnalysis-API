@@ -17,7 +17,7 @@ Diferente de implementações convencionais, este projeto utiliza uma abordagem 
 ### 🛠️ Stack Tecnológica
 
 * **Framework:** .NET 8 (C#)
-* **Persistence:** SQL Server 🗄️
+* **Persistence:** SQL Server 
 * **Data Access:** Dapper
 * **Documentation:** Swagger / OpenAPI (com suporte a comentários XML)
 
